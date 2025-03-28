@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233352895119",
+    "project_id": "swiftgrocer-sijey",
+    "storage_bucket": "swiftgrocer-sijey.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233352895119:android:79c46e1f48fe7b0918eefa",
+        "android_client_info": {
+          "package_name": "com.mycompany.swiftgrocersijey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Z-72ndEi4WA4yHqxr-DwjUe0o4lB_nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
